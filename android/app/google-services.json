@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "908130376555",
+    "project_id": "masteredit1909695-b0f84",
+    "storage_bucket": "masteredit1909695-b0f84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908130376555:android:4ac383a05bfd3be3044a2e",
+        "android_client_info": {
+          "package_name": "com.mycompany.a1a1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908130376555-3q0f6nu5kb2vmhrqnbhd81tebm6mnfk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.a1a1",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "908130376555-0suuvn93geki7ifsfefmbljqgfjct3b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSXP-cQEl0Iyzv3rWN-7uNooS3Z1tZRPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908130376555-0suuvn93geki7ifsfefmbljqgfjct3b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908130376555-3avoecm42na08cargqmlg0pitsihafme.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.a1a1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908130376555:android:5c7afdb7b639511e044a2e",
+        "android_client_info": {
+          "package_name": "com.mycompany.masteredit1909695"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908130376555-fa5e7mcc3p198ljtif4nc0qmmkhaohmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.masteredit1909695",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "908130376555-0suuvn93geki7ifsfefmbljqgfjct3b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSXP-cQEl0Iyzv3rWN-7uNooS3Z1tZRPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908130376555-0suuvn93geki7ifsfefmbljqgfjct3b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908130376555-3avoecm42na08cargqmlg0pitsihafme.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.a1a1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
